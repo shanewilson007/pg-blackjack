@@ -18,7 +18,7 @@ brightRed = (255,0,0)
 blue = (0,0,200)
 brightBlue = (0,0,255)
 
-path = '/home/shane/programming/python/blackjack/'
+path = './'
 
 cards = [i.strip() for i in open(str(path)+'cards.txt').readlines()]
 
